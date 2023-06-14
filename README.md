@@ -1,1 +1,1 @@
-# goDockerApp-conf
+# goDockerApp configuration repo
